@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nul:home|Door43 (nul)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nul|d43-nul repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nul/archive/master.zip|d43-nul.zip]]
+
+**Recent Changes**
+{{changes>ns = nul}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nul|Ethnologue data]]
+
